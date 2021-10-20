@@ -1,6 +1,6 @@
 {
-  "name": "⚡𝗚𝗲𝗲𝘇 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡",
-  "description": "🚫Geez-UserBot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "⚡Setanbot⚡",
+  "description": "🚫Setanbot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK ngewe DI TELEGRAM.",
   "logo": "",
   "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Vckyou/Geez-UserBot",
-  "telegram": "https://t.me/VckyouuBitch",
+  "repository": "https://github.com/Hafisnuranzari/Setanbot",
+  "telegram": "https://t.me/circleaprhodite",
   "success_url": "https://t.me/CariTemanRandom",
   "stack": "container",
   "env": {

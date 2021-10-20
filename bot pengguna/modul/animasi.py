@@ -26,7 +26,7 @@ async def typewriter(typew):
                      "`\n┻┳|￣  )`"
                      "`\n┳ﾐ(￣ ／`"
                      "`\n┻┳T￣|`"
-                     "\n**Punten**")
+                     "\n**permisi cantik,apis nyimak**")
 
 # Create by myself @localheart
 

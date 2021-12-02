@@ -1,6 +1,6 @@
 {
-  "name": "⚡Setanbot⚡",
-  "description": "🚫Setanbot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK ngewe DI TELEGRAM.",
+  "name": "⚡ghoibubot⚡",
+  "description": "🚫Setanbot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK KUNTILANAK,POCONG DAN KAWAN KAWANNYA DI TELEGRAM.",
   "logo": "",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Hafisnuranzari/Setanbot",
-  "telegram": "https://t.me/circleaprhodite",
-  "success_url": "https://t.me/CariTemanRandom",
+  "repository": "https://github.com/Hafisnuranzari/ghoibubot",
+  "telegram": "https://t.me/skuyaprhodite",
+  "success_url": "https://t.me/mutualanaphrodite",
   "stack": "container",
   "env": {
     "API_KEY": {

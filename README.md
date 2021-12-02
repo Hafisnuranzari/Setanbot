@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./resources/extras/geez.gif" width="35px">GEEZ PROJECTS<img src="./resources/extras/geez.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/extras/geez.gif" width="35px">GHOIB PROMAX<img src="./resources/extras/geez.gif" width="35px"></h1>
 
 <p align="center">
     <a href="https://github.com/vckyou/Geez-UserBot/commits/Geez-UserBot"><img src="https://img.shields.io/github/last-commit/vckyou/Geez-UserBot?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
@@ -17,18 +17,18 @@
 
 
 <p align="center">
-   <a href="https://github.com/vckyou/Geez-UserBot"><img src="https://telegra.ph/file/47cdc3d607b1a4f55b830.png" alt="Geez Projects" width=400px></a>
+   <a href="https://github.com/Hafisnuranzari/ghoibubot-UserBot"><img src="https://telegra.ph/file/47cdc3d607b1a4f55b830.png" alt="Geez Projects" width=400px></a>
    <br>
    <br>
 </p>
 
 <h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">Geez-UserBot<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
 
-**Pada Dasarnya [Geez-UserBot](https://github.com/Vckyou/Geez-UserBot) adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+**Pada Dasarnya [GHOIB PROMAG](https://github.com/Hafisnuranzari/ghoibubot-UserBot) adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 Berbasis [Paperplane](https://github.com/RaphielGang) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot. Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.**
 
-## DEPLOY TO HEROKU ⚠️
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Hafisnuranzari/Setanbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="250" height="38.60" /></a></p>
+## PENCET INI DI SAYANG MBA KUNTI ⚠️
+<p align="center"><a href="https://heroku.com/deploy?template=https:https://github.com/Hafisnuranzari/ghoibubot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="250" height="38.60" /></a></p>
 
 <h3 align="center">Userbot Digunakan untuk Bersenang-senang di Telegram, dan untuk Menjaga Grup Anda.</h3>
 <p align="center">&nbsp;</p>
@@ -52,7 +52,8 @@ Berbasis [Paperplane](https://github.com/RaphielGang) dan [ProjectBish](https://
 *   [AvinashReddy3108](https://github.com/AvinashReddy3108)    PaperplaneExtended
 *   [TeamUserge](https://github.com/UsergeTeam/Userge)    Userge
 *   [sandy1709](https://github.com/sandy1709/catuserbot)    CatUserbot
-*   DAN TERIMAKASIH BANYAK KEPADA USERBOT INDONESIA LAINNYA🙏
+*   [hapisnibos (https://github.com/Hafisnuranzari/ghoibubot) ghoibubot
+DAN TERIMAKASIH BANYAK KEPADA USERBOT INDONESIA LAINNYA🙏
 
 
 ## Stay Support 🚀

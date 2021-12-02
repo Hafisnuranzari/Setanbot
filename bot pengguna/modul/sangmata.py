@@ -9,14 +9,14 @@ async def lastname(steal):
     if steal.fwd_from:
         return
     if not steal.reply_to_msg_id:
-        await steal.edit("```Mohon Balas Ke Pesan Pengguna.```")
+        await steal.edit("```Mohon Tunggu Anda sedang Di Periksa.```")
         return
     message = await steal.get_reply_message()
     chat = "@SangMataInfo_bot"
     user_id = message.sender.id
     id = f"/search_id {user_id}"
     if message.sender.bot:
-        await steal.edit("```Balas Ke Pesan Pengguna Yang Sebenarnya.```")
+        await steal.edit("```BALES PERASAAN KE HAPIS TOLOL ANJING LO.```")
         return
     await steal.edit("```Mengambil Informasi Apakah Ini Jodoh Hapis, Mohon Menunggu..```")
     try:
